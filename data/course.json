@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2015",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Nuclear Engineering",
+      "Nuclear Systems, Policy, and Economics"
+    ],
+    [
+      "Humanities",
+      "History",
+      "World History"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "International Relations"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Military Studies"
+    ]
+  ],
+  "legacy_uid": "fc11b433-6330-d625-0139-b17648fdc53a",
+  "instructors": {
+    "content": [
+      "f090a40b-3f6c-71ee-13e2-35f4cb541058"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f40b7ec4-2e56-55d7-12ea-538fca7ceea2",
+    "website": "17-473-the-politics-of-nuclear-proliferation-nuclear-history-strategy-and-statecraft-fall-2015"
+  },
+  "course_title": "The Politics of Nuclear Proliferation: Nuclear History, Strategy, and Statecraft",
+  "course_description": "This course provides an introduction to the politics and theories surrounding the proliferation of nuclear weapons. It introduces the basics of nuclear weapons, nuclear strategy, and deterrence theory. It also examines the historical record during the Cold War as well as the proliferation of nuclear weapons to regional powers and the resulting deterrence consequences.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.473",
+  "course_image_thumbnail": {
+    "content": "bad5cf15-7608-cea0-a5ae-e130730cbc76",
+    "website": "17-473-the-politics-of-nuclear-proliferation-nuclear-history-strategy-and-statecraft-fall-2015"
+  },
+  "learning_resource_types": [],
+  "site_uid": "1a891aa7-f8ee-481d-87a1-85cfc0fd9cf1",
+  "site_short_id": "17.473-fall-2015",
+  "site_url_path": "courses/17-473-the-politics-of-nuclear-proliferation-nuclear-history-strategy-and-statecraft-fall-2015",
+  "title": "Course Metadata"
+}
