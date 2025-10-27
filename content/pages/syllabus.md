@@ -2,8 +2,6 @@
 content_type: page
 description: This section features the course description, course requirements, grading
   policy, and the course calendar.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -98,16 +96,16 @@ For more detailed information, see the {{% resource_link d81f15fc-328b-4547-3845
 Plagiarism
 ----------
 
-Plagiarism will not be tolerated and will be referred to the appropriate authorities for disciplinary action if suspected. Plagiarism is defined as "a piece of writing that has been copied from another source and is presented as being your own work." This includes ideas as well as specific paragraphs, sentences, etc. Ignorance and laziness is not an excuse for plagiarism, so be careful about citations and footnotes in any written work. The following resources may be of further assistance: [Avoiding Plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/) from MIT's [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) and MIT's rules regarding [Academic Misconduct and Dishonesty](http://web.mit.edu/policies/10/index.html).
+Plagiarism will not be tolerated and will be referred to the appropriate authorities for disciplinary action if suspected. Plagiarism is defined as "a piece of writing that has been copied from another source and is presented as being your own work." This includes ideas as well as specific paragraphs, sentences, etc. Ignorance and laziness is not an excuse for plagiarism, so be careful about citations and footnotes in any written work. The following resources may be of further assistance: {{% resource_link "a5a515c8-046a-425c-b7c5-52c3b8717fb4" "Avoiding Plagiarism" %}} from MIT's {{% resource_link "5aaf1312-9127-478c-9b23-2a521873bd73" "Writing and Communication Center" %}} and MIT's rules regarding {{% resource_link "403508c5-459e-43bf-af55-aaf6c41bfbb6" "Academic Misconduct and Dishonesty" %}}.
 
 Recommended Readings
 --------------------
 
-Cirincione, Joseph. _Bomb Scare: The History & Future of Nuclear Weapons_. Columbia University Press, 2008. ISBN: 9780231135115. \[Preview with [Google Books](http://books.google.com/books?id=lYTGAgAAQBAJ&pg=PAfrontcover)\]
+Cirincione, Joseph. _Bomb Scare: The History & Future of Nuclear Weapons_. Columbia University Press, 2008. ISBN: 9780231135115. \[Preview with {{% resource_link "f70bdad9-f503-4bf8-89b2-4125c2bac2ab" "Google Books" %}}\]
 
 Gavin, Francis J. _Nuclear Statecraft: History and Strategy in America's Atomic Age_. Cornell University Press, 2015. ISBN: 9780801456756.
 
-Trachtenberg, Marc. _History & Strategy_. Princeton University Press, 1991. ISBN: 9780691023434. \[Preview with [Google Books](http://books.google.com/books?id=0glIMk1wLf0C&pg=PAfrontcover)\]
+Trachtenberg, Marc. _History & Strategy_. Princeton University Press, 1991. ISBN: 9780691023434. \[Preview with {{% resource_link "a18bf732-29b3-4a7d-9890-d03bf964457f" "Google Books" %}}\]
 
 Additional readings can be found in the {{% resource_link 0aeeb97d-5f39-d2df-4c49-a95b925c5e43 "Readings" %}} section.
 
@@ -175,7 +173,7 @@ The Second World War, the Manhattan Project, and the Decision to Drop the Bomb
 
 Second Generation Nuclear Powers
 
-_Guest Lecturer: [Professor Vipin Narang](http://web.mit.edu/polisci/people/faculty/vipin-narang.html), Associate Professor of Political Science, MIT_
+_Guest Lecturer: {{% resource_link "34da3bae-bb2f-4b1f-8182-c6386247cba0" "Professor Vipin Narang" %}}, Associate Professor of Political Science, MIT_
 
 
 {{< tdclose >}}
@@ -347,7 +345,7 @@ How to Study / Think about Nuclear Dynamics
 {{< tdopen >}}
 
 
-### Screening: [Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb](http://www.imdb.com/title/tt0057012/?ref_=fn_al_tt_1). Directed by Stanley Kubrick. Black and White, 95 min. 1964.
+### Screening: {{% resource_link "024467fa-eb4f-48f3-be21-a6bcd3366c65" "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb" %}}. Directed by Stanley Kubrick. Black and White, 95 min. 1964.
 
 
 {{< tdclose >}}
@@ -419,7 +417,7 @@ Take Home Final Paper assignment handed out
 
 Centrifuges – Technology and History
 
-_Guest lecturer: [R. Scott Kemp](http://lnsp.mit.edu/r-scott-kemp/), Assistant Professor of Nuclear Science and Engineering, MIT_
+_Guest lecturer: {{% resource_link "33f52603-b208-4ce2-9ffd-2a7586740ac2" "R. Scott Kemp" %}}, Assistant Professor of Nuclear Science and Engineering, MIT_
 
 
 {{< tdclose >}}
